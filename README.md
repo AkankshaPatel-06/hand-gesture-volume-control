@@ -1,18 +1,35 @@
-# hand-gesture-volume-control
+# ✋🎚️ Hand Gesture Volume Control
 
-## Description 
+## 📌 Project Description
+Hand Gesture Volume Control is a computer vision–based application that allows users to control the system volume using hand gestures captured through a webcam. The project provides a touchless and intuitive way to interact with the system by tracking hand movements in real time.
 
-## Used Stack 
+This project demonstrates the practical use of computer vision and gesture recognition techniques using Python.
 
-- python version 3.10.19
-- opencv-python==4.8.1.78
-- mediapipe==0.10.9
-- numpy==1.24.3
+## 🚀 Features
+- Real-time hand detection using webcam  
+- Gesture-based volume increase and decrease  
+- Touchless system volume control  
+- Smooth and responsive interaction  
+- Live visual feedback on screen  
 
-## How to Use
+## 🛠️ Technologies Used
+- Python  
+- OpenCV  
+- MediaPipe  
+- NumPy  
+- Pycaw (for controlling system volume)  
 
-## Connect with me
+## ⚙️ How the Project Works
+1. The webcam captures live video frames.
+2. MediaPipe detects hand landmarks in real time.
+3. The distance between specific fingers (such as thumb and index finger) is calculated.
+4. Based on the finger distance, the system volume is increased or decreased.
+5. Visual indicators are displayed for better user interaction.
 
-- [LinkedIn](https://linkedin.com/in/akanksha-patel-088159297)
-- [Email](mailto:akanksha798p@gmail.com)
+## ▶️ How to Run the Project
+
+### 🔹 Prerequisites
+- Python installed on your system
+- Webcam enabled
+
 
