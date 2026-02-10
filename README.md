@@ -32,4 +32,9 @@ This project demonstrates the practical use of computer vision and gesture recog
 - Python installed on your system
 - Webcam enabled
 
+### 🔹 Installation
+Install the required libraries:
+```bash
+pip install opencv-python mediapipe numpy pycaw
+
 
