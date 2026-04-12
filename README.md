@@ -1,4 +1,4 @@
-# ✋🎚️ Hand Gesture Volume Control
+# ✋🎚️ Hand Gesture Volume control
 
 ## 📌 Project Description
 Hand Gesture Volume Control is a computer vision–based application that allows users to control the system volume using hand gestures captured through a webcam. The project provides a touchless and intuitive way to interact with the system by tracking hand movements in real time.
